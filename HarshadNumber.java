@@ -21,7 +21,7 @@ public class HarshadNumber {
         if (number % sumOfDigits == 0) {
             System.out.println(number + " is a Harshad Number.");
         } else {
-            System.out.println(number + " is not a Harshad Number.");
+            System.out.println(number + " is not a Harshad Number");
         }
     }
 }
